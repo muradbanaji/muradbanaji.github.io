@@ -11,7 +11,7 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
-* M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours* (2021) , (preprint at https://arxiv.org/abs/2112.06801)
+* M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours* (2021) , (preprint at <https://arxiv.org/abs/2112.06801>)
 
 * M. Banaji, *Building Oscillatory Chemical Reaction Networks by Adding Reversible Reactions*, **SIAM J Appl Math**, 80(4) (2020) 1751--1777. (preprint at https://arxiv.org/abs/1906.09070)
 
