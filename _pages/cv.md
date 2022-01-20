@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+\[Still got to do this one.\]
+
 {% include base_path %}
 
 <!--- Education
