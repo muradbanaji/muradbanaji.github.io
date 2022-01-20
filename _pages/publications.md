@@ -11,17 +11,17 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
-* M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours* (2021) , (preprint at <https://arxiv.org/abs/2112.06801>)
+* [preprint] M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours* (2021) , (<https://arxiv.org/abs/2112.06801>)
 
 * M. Banaji, *Building Oscillatory Chemical Reaction Networks by Adding Reversible Reactions*, **SIAM J Appl Math**, 80(4) (2020) 1751--1777. (preprint at <https://arxiv.org/abs/1906.09070>)
 
-* [preprint] M. Banaji, *The determinant of the second additive compound of a square matrix: a formula and applications*, (2018) (preprint at <https://arxiv.org/abs/1806.07162>)
+* [preprint] M. Banaji, *The determinant of the second additive compound of a square matrix: a formula and applications*, (2018) (<https://arxiv.org/abs/1806.07162>)
 
 * M. Banaji and C. Pantea, *The inheritance of nondegenerate multistationarity in chemical reaction networks*, **SIAM J Appl Math**, 78(2) (2018) 1105--1130. (preprint at <https://arxiv.org/abs/1608.08400>)
 
 * M. Banaji, *Inheritance of oscillation in chemical reaction networks*, **Applied Math Comput**, 325 (2018) 191--209. (preprint at <https://arxiv.org/abs/1706.00684>)
 
-* [preprint] M. Banaji, *Counting chemical reactions with NAUTY* (2017), <https://arxiv.org/abs/1705.10820>
+* [preprint] M. Banaji, *Counting chemical reactions with NAUTY* (2017), (<https://arxiv.org/abs/1705.10820>)
 
 * M. Banaji and C. Pantea, *Some results on injectivity and multistationarity in chemical reaction networks*, **SIAM J Appl Dyn Syst**, 15(2) (2016) 807–-869. (preprint at <https://arxiv.org/abs/1309.6771>)
 
