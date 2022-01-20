@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-\[To DO\]
-
-You can also view some of my articles on <u><a href="{{author.arxiv}}">arXiv</a>.</u>
+You can also view some of my articles on <a href="{{author.arxiv}}">arXiv</a>.
 
 <!--- {% include base_path %}
 
