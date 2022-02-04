@@ -12,4 +12,3 @@ I completed my PhD in mathematics in 2001 from Queen Mary, University of London.
 
 Much of my research is in dynamical systems, with a focus on applications in biology, medicine and chemistry. Broadly I am interested in questions of how network structure determines allowed dynamical behaviours in dynamical systems.
 
-\[This page is under construction. \]

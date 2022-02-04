@@ -9,7 +9,7 @@ redirect_from:
 
 ## Qualifications
 
-* 2019 **SFHEA** ([Senior Fellow](https://www.advance-he.ac.uk/fellowship/senior-fellowship) of the Higher Education Academy, UK)
+* 2019, **SFHEA** ([Senior Fellow](https://www.advance-he.ac.uk/fellowship/senior-fellowship) of the Higher Education Academy, UK)
 
 * 2001, **PhD (Mathematics)**. Queen Mary, University of London (supervised by [Paul Glendinning](https://en.wikipedia.org/wiki/Paul_Glendinning)). 
 
