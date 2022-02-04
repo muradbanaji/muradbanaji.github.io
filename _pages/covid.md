@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "covid-writing"
+title: ""
 permalink: /covid/
 author_profile: true
 ---
