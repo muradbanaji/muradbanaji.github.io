@@ -7,7 +7,146 @@ redirect_from:
   - /resume
 ---
 
-\[Still got to do this one.\]
+## Qualifications
+
+* 2019 **SFHEA** ([Senior Fellow](https://www.advance-he.ac.uk/fellowship/senior-fellowship) of the Higher Education Academy, UK)
+
+* 2001, **PhD (Mathematics)**. Queen Mary, University of London (supervised by [Paul Glendinning](https://en.wikipedia.org/wiki/Paul_Glendinning)). 
+
+* 1995, **PGCE (Science)**. Goldsmiths, University of London.
+
+* 1994, **BSc (Physics)**. King's College, London. 
+
+
+
+## Employment
+
+* Currently a visiting academic at Middlesex University London.
+
+* Jan 2016-Aug 2021: senior lecturer, Middlesex University London.
+
+* Oct 2010-Dec 2015: lecturer, then senior lecturer, then reader, University of Portsmouth. 
+
+* Sept 2001-Oct 2007 and July 2009-Sept 2010: research fellow and teaching fellow, UCL. 
+
+* Oct 2007-July 2009: senior research officer, Essex. 
+
+* Sept 1995-Dec 1996: secondary science teacher, Sedgehill School, Lewisham.
+
+
+## Funding
+ 
+* [PI] **LMS Workshop Grant**. *Combinatorial and Algebraic Approaches to the study of Chemical Reaction Networks*, (June 2014).
+
+* [PI] **EPSRC First Grant**. *Stability and order preservation in chemical reaction networks*, (Feb. 2012-August 2014). 
+
+* [Co-I with David Angeli] **Leverhulme Trust Research Grant**. *Structural conditions for oscillation in chemical reaction networks*, (Oct 2011-Sept 2013). 
+
+* [Co-I with Clare Elwell & Chris Cooper] **Wellcome Trust**. *Integrating monitoring and modelling for real-time tracking of cerebral circulation and metabolism*, (Sept. 2010-March 2013). 
+
+
+## Publications
+
+[Listed here](https://muradbanaji.github.io/publications/)
+
+
+## Some invited talks (academic and pandemic related)
+
+* West Virginia University, mathematics, statistics and data science colloquium, (Dec. 2021), *Subnetworks, motifs, and inheritance in chemical reaction networks*.
+
+* Centre for the Study of Developing Societies (Sept. 2021) *Lessons from India's pandemic data*. [link](https://www.facebook.com/csdsdelhi/videos/576388253726279/)
+
+* Kerala Council for Historical Research (July 2021) *The COVID-19 pandemic in India: data, stories and myths*. [youtube](https://www.youtube.com/watch?v=YVAssVJbHpk)
+
+
+* International Centre for Theoretical Sciences (ICTS, TIFR, June 2021, *The challenges of mapping India's COVID-19 epidemic*
+
+* Nottingham University, Mathematics seminar (Nov. 2020), *Reconstructing Mumbai’s COVID-19 story with modelling and data analysis*
+
+* International Centre for Theoretical Sciences (ICTS, TIFR, July 2019). *Chemical reaction network theory* (in *Disease Modelling and Public Health*). [link](https://www.icts.res.in/discussion-meeting/dmph2019)
+
+
+* Oxford Industrial and Applied Mathematics seminar (May 2019). *From structure to dynamics in chemical reaction networks*. [link](http://www.maths.ox.ac.uk/node/30989)
+
+* Leeds applied mathematics seminar, (Oct. 2018) *Inheritance of behaviours in bio/chemical networks*. [link](https://www1.maths.leeds.ac.uk/school/research/mathbiomed/seminars.html)
+
+* Freie Universität, Berlin (May 2018). *Inheritance in chemical reaction networks*. [link](http://dynamics.mi.fu-berlin.de/lectures/oberseminar/18SS-oberseminar.php)
+
+* Mathematical Biosciences Institute, Ohio (Jan 2016). *Some combinatorial and algebraic problems arising from the study of chemical reaction networks* (in *Dynamics in Networks with Special Properties*). [link (with video)](https://video.mbi.ohio-state.edu/video?view=speakers&id=11213&item=Murad%20Banaji)
+
+* Leicester applied mathematics seminar (May 2015). *Some results on nonexpansive dynamical systems with applications to chemical reaction networks*. [link](http://www2.le.ac.uk/departments/mathematics/research/applied/applied\_seminar)
+
+* Madison, Wisconsin (April 2015, two seminars + two week research visit as an honorary fellow). *Nonexpansivity in chemical reaction networks*. [link](http://www.math.wisc.edu/wiki/index.php/Applied/ACMS)
+
+* LSBU maths study group, London (March 2015). *Matrices, exterior algebra and combinatorics*.
+
+* Tata Institute of Fundamental Research, Bombay, India (August 2013). *Some mathematical problems arising in the study of chemical reaction networks*. [link](https://www.tcs.tifr.res.in/events/some-mathematical-problems-arising-study-chemical-reaction-networks)
+
+* Queen Mary Combinatorics Study Group (Feb. 2013). *Matrix stability from bipartite graphs*. [link (pdf)](http://www.maths.qmul.ac.uk/~pjc/csgnotes/Matrix_talk.pdf)
+
+* Kent Mathematics Colloquium (Jan. 2013) *Identifying monotone and strongly monotone dynamical systems*.
+
+* UCL (October 2012) *Interpreting NIRS data: the modelling challenge* (Invited keynote at fNIRS 2012). [link](http://fnirs.org/fnirs2012.html)
+
+* Harvard, USA (July 2011) *Monotone dynamics in chemical reaction networks* (at *Theorems on Biological Circuits*).
+
+* Linz, Austria (July 2010) *What's in a matrix? Using combinatorics and analysis to make claims about chemical reactions for arbitrary kinetics* (Invited keynote at *Algebraic and Numeric Biology 2010*).
+
+* Warwick (March 2010) *Injectivity and multistationarity: graph-theoretic approaches* (Network Seminar).
+
+* London Dynamical Systems Group Seminar. (UCL, Feb. 2010) *Convergence in strongly monotone systems with an increasing first integral*. 
+
+* Queen Mary Dynamical Systems and Statistical Physics Seminar (Oct. 2009) *Combinatorial approaches to injectivity of functions with applications to multiple equilibria in dynamical systems*.
+
+* Rutgers, USA (May 2009) *Predicting injectivity in interaction networks*. (Centre for Discrete Mathematics and Theoretical Computer Science workshop).
+
+* Manchester (April 2009) *Predicting the behaviour of interaction networks from their structure* (Centre for Interdisciplinary Computational and Dynamical Analysis seminar).
+
+* Stuttgart, Germany (Jan. 2009) *Making predictions about interaction networks from their structure* (Institute for Systems Theory and Automatic Control seminar).
+
+## Teaching and course preparation
+
+**Level 6-7**
+
+* *Advanced Algebra (Galois Theory)* (Middlesex, 3 times)
+
+* *Differential Equations* (Middlesex, 1 time)
+
+* *Dynamical Systems* (UCL, 5 times)
+
+* *Graphs and Networks* (Portsmouth, 2 times)
+
+* *Financial Statistics*, (Middlesex, 2 times)
+
+
+**Level 5**
+
+* *Real Analysis* (Portsmouth, 4 times)
+
+* *Complex Analysis* (Portsmouth, once)
+
+* *Calculus of Several Variables* (Portsmouth, 2 times)
+
+* *Applied Mathematics* (Portsmouth, 2 times)
+
+* *Problem Solving Methods* (Middlesex, once)
+
+* *Financial mathematics*, (Middlesex, once)
+
+* *Mathematics for engineers* (UCL, once)
+
+**Level 4**
+
+* *Vectors and Matrices* (Middlesex, 4 times)
+
+* *Mathematics for engineers*, (Middlesex, 2 times)
+
+**Thesis and postdoc supervision** 
+
+Pete Donnell (PhD, UCL); Casian Pantea (Postdoctoral research, Portsmouth/Imperial); Pete Donnell (Postdoctoral research, Portsmouth)
+
+**PhD examination**. I have been external examiner for the University of Oxford, and for the University of Nottingham. I have been internal examiner for the University of Portsmouth. 
+
 
 {% include base_path %}
 
