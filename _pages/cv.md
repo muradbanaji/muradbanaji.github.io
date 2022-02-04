@@ -56,14 +56,14 @@ redirect_from:
 
 * Centre for the Study of Developing Societies (Sept. 2021) *Lessons from India's pandemic data*. [link](https://www.facebook.com/csdsdelhi/videos/576388253726279/)
 
-* Kerala Council for Historical Research (July 2021) *The COVID-19 pandemic in India: data, stories and myths*. [youtube](https://www.youtube.com/watch?v=YVAssVJbHpk)
+* Kerala Council for Historical Research (July 2021) *The COVID-19 pandemic in India: data, stories and myths*. [video of talk](https://www.youtube.com/watch?v=YVAssVJbHpk)
 
 
-* International Centre for Theoretical Sciences (ICTS, TIFR, June 2021, *The challenges of mapping India's COVID-19 epidemic*
+* International Centre for Theoretical Sciences (ICTS, TIFR, June 2021), *The challenges of mapping India's COVID-19 epidemic* [video of talk](https://www.youtube.com/watch?v=dVSPlI9fzHo)
 
 * Nottingham University, Mathematics seminar (Nov. 2020), *Reconstructing Mumbai’s COVID-19 story with modelling and data analysis*
 
-* International Centre for Theoretical Sciences (ICTS, TIFR, July 2019). *Chemical reaction network theory* (in *Disease Modelling and Public Health*). [link](https://www.icts.res.in/discussion-meeting/dmph2019)
+* International Centre for Theoretical Sciences (ICTS, TIFR, July 2019). *Chemical reaction network theory* (in [Disease Modelling and Public Health](https://www.icts.res.in/discussion-meeting/dmph2019)). [link (video of talk)](https://www.youtube.com/watch?v=Y4334dk5uXQ)
 
 
 * Oxford Industrial and Applied Mathematics seminar (May 2019). *From structure to dynamics in chemical reaction networks*. [link](http://www.maths.ox.ac.uk/node/30989)

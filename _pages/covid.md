@@ -15,6 +15,17 @@ author_profile: true
 
 * [COVIDAGENT modelling code](https://github.com/muradbanaji/COVIDAGENT).
 
+## Talks on COVID-19 in India
+
+* [Lessons from India's pandemic data](https://www.facebook.com/csdsdelhi/videos/576388253726279/) (to the Centre for the Study of Developing Societies, September 3, 2021).
+
+* [The COVID-19 pandemic in India: data, stories and myths](https://www.youtube.com/watch?v=YVAssVJbHpk) (to the Kerala Council for Historical Research, July 22, 2021).
+
+* [The challenges of mapping India's COVID-19 epidemic](https://www.youtube.com/watch?v=dVSPlI9fzHo) (International Centre for Theoretical Sciences (ICTS, TIFR, June 2021).
+
+* [Estimating COVID-19 death undercounting in India](https://www.youtube.com/watch?v=nzXGJelA1vs) (The Quint, May 2021).
+
+* [COVID-19 in India: Gaps in Data](https://www.youtube.com/watch?v=Br3hYyS8vh8&list=PLhwtHkw8KYHC4h8U6PhhnxSTtHP0S94Av) (IndiaSpend debate, with Govindraj Ethiraj, Giridhar Babu and Rukmini S).
 
 ## Selected popular writing, technical writing, and talks on COVID-19 in India
 
@@ -31,10 +42,6 @@ author_profile: true
 * [Covid-19: What data about excess deaths reveals about Mumbai's class divide](https://scroll.in/article/1005383/covid-19-what-data-about-excess-deaths-reveals-about-mumbais-class-divide) (Scroll, 15/09/2021). All-cause mortality data indicates that the bulk of Mumbai's uncounted deaths were probably amongst slum-dwellers. It tells a story, probably repeated across the country, of how official data risks understating the toll of the pandemic on marginalised communities. Based on the updated [preprint on medrxiv here](https://www.medrxiv.org/content/10.1101/2021.04.08.21255101v2).
 
 * [Estimating COVID-19 infection fatality rate in Mumbai during 2020](https://www.medrxiv.org/content/10.1101/2021.04.08.21255101v2) (09/09/2021). Preprint on medrxiv updated to take into consideration extra insights from monthly all causes mortality data.
-
-* Talk: [Lessons from India's pandemic data](https://www.facebook.com/csdsdelhi/videos/576388253726279/) (to the Centre for the Study of Developing Societies, September 3, 2021)
-
-* Talk: [The COVID-19 pandemic in India: data, stories and myths](https://www.youtube.com/watch?v=YVAssVJbHpk) (to the Kerala Council for Historical Research, July 22, 2021)
 
 * [Lessons from India's all-cause mortality data](https://www.thehindu.com/opinion/lead/lessons-from-indias-all-cause-mortality-data/article36007188.ece). (With Aashish Gupta, The Hindu, 20/08/2021. Article behind a paywall, but image available [here](https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/acmthehinduimage/).) Some estimates on excess mortality in India during the pandemic. We discuss the issues with death registration data, why making excess mortality estimates is complicated, and why the numbers are likely to rise. Based on a technical document: [Estimates of pandemic excess mortality in India based on civil registration data](https://www.indiacovidmapping.org/reports/mortality/NationalAllCauseMortalityEstimates.pdf).
 
