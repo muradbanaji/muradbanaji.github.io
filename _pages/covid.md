@@ -27,7 +27,12 @@ author_profile: true
 
 * [COVID-19 in India: Gaps in Data](https://www.youtube.com/watch?v=Br3hYyS8vh8&list=PLhwtHkw8KYHC4h8U6PhhnxSTtHP0S94Av) (IndiaSpend debate, with Govindraj Ethiraj, Giridhar Babu and Rukmini S).
 
-## Selected popular writing, technical writing, and talks on COVID-19 in India
+## Selected popular writing and technical writing on COVID-19 in India
+
+* [The bitter dispute over India's pandemic mortality](https://www.thehindu.com/opinion/lead/the-bitter-dispute-over-indias-pandemic-mortality/article65405332.ece?homepage=true) (with Aashish Gupta, in The Hindu, 12/05/22). After publication of the WHO's estimates of India's pandemic mortality, government rebuttals got more strident. These rebuttals include wild claims about civil registration coverage which do not stand up to scrutiny. (The article is paywalled, but an image is available [here](https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/thehinduwhomortality/).)
+
+* [Estimating Covid-19 Fatalities in India](https://www.theindiaforum.in/article/covid-mortality-india) (The India Forum, 05/05/22). What is the basis for Indian government objections to estimates of pandemic mortality in India? And do these objections hold water? A detailed review of the literature and the government responses. This piece is also in a more abbreviated form [here](https://science.thewire.in/health/who-report-health-ministry-covid-deaths-data-dispute/).
+
 
 * [Estimating potential excess mortality during the third (Omicron) wave of India's COVID-19 epidemic](https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/wave3mortalitynotes/) (Technical document, 24/01/22). A first attempt to estimate what the mortality impact of the wave might be, based on previous waves and international data.
 
