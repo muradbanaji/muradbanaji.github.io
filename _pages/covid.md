@@ -17,6 +17,8 @@ author_profile: true
 
 ## Talks on COVID-19 in India
 
+* [COVID-19 mortality: data, propaganda, and politics... and inequality](https://www.youtube.com/watch?v=oHkKGUk07aU) (to Bahujan Economists, June 12, 2022; only part of the talk was successfully recorded).
+
 * [Lessons from India's pandemic data](https://www.facebook.com/csdsdelhi/videos/576388253726279/) (to the Centre for the Study of Developing Societies, September 3, 2021).
 
 * [The COVID-19 pandemic in India: data, stories and myths](https://www.youtube.com/watch?v=YVAssVJbHpk) (to the Kerala Council for Historical Research, July 22, 2021).

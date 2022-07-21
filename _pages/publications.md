@@ -11,6 +11,8 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
+* [preprint] M. Banaji and B. Boros *The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation* (2022) , (<https://arxiv.org/abs/2207.04971>)
+
 * [preprint] M. Banaji, *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks* (2021) , (<https://arxiv.org/abs/2201.13105>)
 
 * M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours*, **Appl Math Comput** 426 (2022) p127109. (<a href="https://www.sciencedirect.com/science/article/pii/S009630032200193X?via%3Dihub">Available open access</a>)
@@ -35,7 +37,7 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 * M. Banaji and A. Burbanks, *A graph-theoretic condition for irreducibility of a set of cone preserving matrices*, **Linear Algebra Appl** 438 (2013) 4103-4113. (preprint at <http://arxiv.org/abs/1112>).
 
-* M. Banaji and J. Mierczy\'nski, *Global convergence in systems of differential equations arising from chemical reaction networks*, **J Differ Equations** 254 (3) (2013), 1359-1374. (preprint at <https://arxiv.org/abs/1205.1716>)
+* M. Banaji and J. Mierczyński, *Global convergence in systems of differential equations arising from chemical reaction networks*, **J Differ Equations** 254 (3) (2013), 1359-1374. (preprint at <https://arxiv.org/abs/1205.1716>)
 
 * M. Banaji, *Cycle structure in SR and DSR graphs: implications for multiple equilibria and stable oscillation in chemical reaction networks*, in Transactions on Petri Nets and other models of Concurrency (ToPNoC), volume V, series: **LNCS**, volume 6900, K. Jensen, S. Donatelli and J. Kleijn (eds) (2012)
 
