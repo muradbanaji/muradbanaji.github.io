@@ -52,6 +52,10 @@ redirect_from:
 
 ## Some invited talks (academic and pandemic related)
 
+* Applications of Computer Algebra, Istanbul (August 2022) *Andronov-Hopf bifurcations in a class of bimolecular mass-action systems*
+
+* Formal Reaction Kinetics seminar, Budapest University of Technology and Economics (March 2022), *Which enlargements of a reaction network preserve its capacity for nontrivial behaviors?*
+
 * West Virginia University, mathematics, statistics and data science colloquium, (Dec. 2021), *Subnetworks, motifs, and inheritance in chemical reaction networks*.
 
 * Centre for the Study of Developing Societies (Sept. 2021) *Lessons from India's pandemic data*. [link](https://www.facebook.com/csdsdelhi/videos/576388253726279/)
