@@ -27,9 +27,10 @@ redirect_from:
 
 * Oct 2010-Dec 2015: lecturer, then senior lecturer, then reader, University of Portsmouth. 
 
-* Sept 2001-Oct 2007 and July 2009-Sept 2010: research fellow and teaching fellow, UCL. 
+* Oct 2007-July 2009: senior research officer, Essex.
 
-* Oct 2007-July 2009: senior research officer, Essex. 
+* Sept 2001-Oct 2007 and July 2009-Sept 2010: research fellow and teaching fellow, UCL.
+
 
 * Sept 1995-Dec 1996: secondary science teacher, Sedgehill School, Lewisham.
 
@@ -52,23 +53,29 @@ redirect_from:
 
 ## Some invited talks (academic and pandemic related)
 
+* Mathematics of Reaction Networks Seminar, Harvard University, Politecnico di Torino, Texas A&M University, and University of Vienna (November 2022) *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks*
+
+* Centre for Computational Science and Mathematical Modelling, Coventry University (October 2022) *Chemical reaction network theory: an overview of some recent results*
+
+* Formal Reaction Kinetics seminar, Budapest University of Technology and Economics (September 2022, with Balázs Boros) *Nondegenerate Andronov--Hopf bifurcations in a class of bimolecular mass-action systems*
+
 * Applications of Computer Algebra, Istanbul (August 2022) *Andronov-Hopf bifurcations in a class of bimolecular mass-action systems*
+
+* Caste, Class and Politics: Health in India seminar, Bahujan Economists, India (June 2022) *COVID-19 mortality: data, propaganda and politics... and inequality*
 
 * Formal Reaction Kinetics seminar, Budapest University of Technology and Economics (March 2022), *Which enlargements of a reaction network preserve its capacity for nontrivial behaviors?*
 
 * West Virginia University, mathematics, statistics and data science colloquium, (Dec. 2021), *Subnetworks, motifs, and inheritance in chemical reaction networks*.
 
-* Centre for the Study of Developing Societies (Sept. 2021) *Lessons from India's pandemic data*. [link](https://www.facebook.com/csdsdelhi/videos/576388253726279/)
+* Centre for the Study of Developing Societies, New Delhi (Sept. 2021) *Lessons from India's pandemic data*. [link](https://www.facebook.com/csdsdelhi/videos/576388253726279/)
 
 * Kerala Council for Historical Research (July 2021) *The COVID-19 pandemic in India: data, stories and myths*. [video of talk](https://www.youtube.com/watch?v=YVAssVJbHpk)
-
 
 * International Centre for Theoretical Sciences (ICTS, TIFR, June 2021), *The challenges of mapping India's COVID-19 epidemic* [video of talk](https://www.youtube.com/watch?v=dVSPlI9fzHo)
 
 * Nottingham University, Mathematics seminar (Nov. 2020), *Reconstructing Mumbai’s COVID-19 story with modelling and data analysis*
 
 * International Centre for Theoretical Sciences (ICTS, TIFR, July 2019). *Chemical reaction network theory* (in [Disease Modelling and Public Health](https://www.icts.res.in/discussion-meeting/dmph2019)). [link (video of talk)](https://www.youtube.com/watch?v=Y4334dk5uXQ)
-
 
 * Oxford Industrial and Applied Mathematics seminar (May 2019). *From structure to dynamics in chemical reaction networks*. [link](http://www.maths.ox.ac.uk/node/30989)
 
@@ -145,9 +152,9 @@ redirect_from:
 
 * *Mathematics for engineers*, (Middlesex, 2 times)
 
-**Thesis and postdoc supervision** 
+**Thesis and postdoc supervision** Pete Donnell (PhD, UCL); Casian Pantea (Postdoctoral research, Portsmouth/Imperial); Pete Donnell (Postdoctoral research, Portsmouth)
 
-Pete Donnell (PhD, UCL); Casian Pantea (Postdoctoral research, Portsmouth/Imperial); Pete Donnell (Postdoctoral research, Portsmouth)
+**Other teaching** I have tutored school students at all levels, and prepared students for competitions, including the BMO (British Mathematical Olympiad)
 
 **PhD examination**. I have been external examiner for the University of Oxford, and for the University of Nottingham. I have been internal examiner for the University of Portsmouth. 
 
