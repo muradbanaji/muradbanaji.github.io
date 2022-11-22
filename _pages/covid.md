@@ -31,6 +31,8 @@ author_profile: true
 
 ## Selected popular writing and technical writing on COVID-19 in India
 
+* [Estimates of pandemic excess mortality in India based on civil registration data](https://www.medrxiv.org/content/10.1101/2021.09.30.21264376v1) (with Aashish Gupta). To appear in **PLoS Global Health**. We use death registration data from twelve states comprising around 60% of the national population to estimate the scale of the pandemic mortality surge in India.
+
 * [The bitter dispute over India's pandemic mortality](https://www.thehindu.com/opinion/lead/the-bitter-dispute-over-indias-pandemic-mortality/article65405332.ece?homepage=true) (with Aashish Gupta, in The Hindu, 12/05/22). After publication of the WHO's estimates of India's pandemic mortality, government rebuttals got more strident. These rebuttals include wild claims about civil registration coverage which do not stand up to scrutiny. (The article is paywalled, but an image is available [here](https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/thehinduwhomortality/).)
 
 * [Estimating Covid-19 Fatalities in India](https://www.theindiaforum.in/article/covid-mortality-india) (The India Forum, 05/05/22). What is the basis for Indian government objections to estimates of pandemic mortality in India? And do these objections hold water? A detailed review of the literature and the government responses. This piece is also in a more abbreviated form [here](https://science.thewire.in/health/who-report-health-ministry-covid-deaths-data-dispute/).
@@ -44,7 +46,6 @@ author_profile: true
 
 * [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://science.thewire.in/health/india-covid-19-excess-deaths-analysis-official-data-crs/) (With Aashish Gupta, The Wire, 05/10/2021). Summary of the key points in our [preprint](https://www.medrxiv.org/content/10.1101/2021.09.30.21264376v1) on pandemic excess mortality in India. Contextualising the numbers and seeing how they align with the progress of the epidemic. 
 
-* [Estimates of pandemic excess mortality in India based on civil registration data](https://www.medrxiv.org/content/10.1101/2021.09.30.21264376v1) (preprint on medrXiv with Aashish Gupta, 01/10/2021). We use death registration data from twelve states comprising around 60% of the national population to estimate the scale of the pandemic mortality surge in India.
 
 * [Covid-19: What data about excess deaths reveals about Mumbai's class divide](https://scroll.in/article/1005383/covid-19-what-data-about-excess-deaths-reveals-about-mumbais-class-divide) (Scroll, 15/09/2021). All-cause mortality data indicates that the bulk of Mumbai's uncounted deaths were probably amongst slum-dwellers. It tells a story, probably repeated across the country, of how official data risks understating the toll of the pandemic on marginalised communities. Based on the updated [preprint on medrxiv here](https://www.medrxiv.org/content/10.1101/2021.04.08.21255101v2).
 

@@ -11,9 +11,11 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
-* [preprint] M. Banaji and B. Boros *The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation* (2022) , (<https://arxiv.org/abs/2207.04971>)
+* [preprint] M. Banaji, B. Boros and J. Hofbauer *The smallest bimolecular mass-action system with a vertical Andronov-Hopf bifurcation* (2022), (<https://arxiv.org/abs/2210.06119>)
 
-* [preprint] M. Banaji, *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks* (2021) , (<https://arxiv.org/abs/2201.13105>)
+* [preprint] M. Banaji and B. Boros *The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation* (2022), (<https://arxiv.org/abs/2207.04971>)
+
+* M. Banaji, *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks* (2021), to appear in **SIAM J Appl Math** (<https://arxiv.org/abs/2201.13105>)
 
 * M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours*, **Appl Math Comput** 426 (2022) p127109. (<a href="https://www.sciencedirect.com/science/article/pii/S009630032200193X?via%3Dihub">Available open access</a>)
 
