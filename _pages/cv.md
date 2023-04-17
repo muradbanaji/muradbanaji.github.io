@@ -21,7 +21,9 @@ redirect_from:
 
 ## Employment
 
-* Currently a visiting academic at Middlesex University London.
+* Apr 2023-present: departmental lecturer, University of Oxford.
+
+* Sept 2021-Apr 2023: visiting academic/hourly paid lecturer, Middlesex University London.
 
 * Jan 2016-Aug 2021: senior lecturer, Middlesex University London.
 
@@ -30,7 +32,6 @@ redirect_from:
 * Oct 2007-July 2009: senior research officer, Essex.
 
 * Sept 2001-Oct 2007 and July 2009-Sept 2010: research fellow and teaching fellow, UCL.
-
 
 * Sept 1995-Dec 1996: secondary science teacher, Sedgehill School, Lewisham.
 

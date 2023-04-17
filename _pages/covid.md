@@ -31,7 +31,7 @@ author_profile: true
 
 ## Selected popular writing and technical writing on COVID-19 in India
 
-* [Estimates of pandemic excess mortality in India based on civil registration data](https://www.medrxiv.org/content/10.1101/2021.09.30.21264376v1) (with Aashish Gupta). To appear in **PLoS Global Health**. We use death registration data from twelve states comprising around 60% of the national population to estimate the scale of the pandemic mortality surge in India.
+* [Estimates of pandemic excess mortality in India based on civil registration data](https://doi.org/10.1371/journal.pgph.0000803) (with Aashish Gupta), **PLoS Global Public Health** (2022). We use death registration data from twelve states comprising around 60% of the national population to estimate the scale of the pandemic mortality surge in India.
 
 * [The bitter dispute over India's pandemic mortality](https://www.thehindu.com/opinion/lead/the-bitter-dispute-over-indias-pandemic-mortality/article65405332.ece?homepage=true) (with Aashish Gupta, in The Hindu, 12/05/22). After publication of the WHO's estimates of India's pandemic mortality, government rebuttals got more strident. These rebuttals include wild claims about civil registration coverage which do not stand up to scrutiny. (The article is paywalled, but an image is available [here](https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/thehinduwhomortality/).)
 
