@@ -11,13 +11,16 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
-* [preprint] M. Banaji, B. Boros and J. Hofbauer *Oscillations in three-reaction quadratic mass-action systems* (2023), (<https://arxiv.org/abs/2304.02303>)
+* [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks* (2023), (<http://arxiv.org/abs/2312.12897>)
 
-* M. Banaji, B. Boros and J. Hofbauer *The smallest bimolecular mass-action system with a vertical Andronov--Hopf bifurcation*, to appear in **Appl Math Lett** (2023), (<https://doi.org/10.1016/j.aml.2023.108671>)
+* M. Banaji, B. Boros and J. Hofbauer *Oscillations in three-reaction quadratic mass-action systems* **Stud Appl Math** (2023), (<https://doi.org/10.1111/sapm.12639>)
+
+* M. Banaji, B. Boros and J. Hofbauer *The smallest bimolecular mass-action system with a vertical Andronov--Hopf bifurcation*, **Appl Math Lett** (2023), (<https://doi.org/10.1016/j.aml.2023.108671>)
 
 * M. Banaji and B. Boros *The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation*, **Nonlinearity** 36(2)(2023) 1398--1433, (<https://doi.org/10.1088/1361-6544/acb0a8>)
 
-* M. Banaji, *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks* (2021), to appear in **SIAM J Appl Math** (<https://arxiv.org/abs/2201.13105>)
+* M. Banaji, *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks* (2023), **SIAM J Appl Math** 83(2) 748--769 (preprint: <https://arxiv.org/abs/2201.13105>)
+
 
 * M. Banaji, B. Boros and J. Hofbauer, *Adding species to chemical reaction networks: preserving rank preserves nondegenerate behaviours*, **Appl Math Comput** 426 (2022) p127109. (<a href="https://www.sciencedirect.com/science/article/pii/S009630032200193X?via%3Dihub">Available open access</a>)
 
