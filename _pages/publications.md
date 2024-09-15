@@ -11,13 +11,13 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Mathematical papers and preprints**
 
-* [preprint] M. Banaji *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
+* [preprint] M. Banaji, *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
 
-* M. Banaji, B. Boros and J. Hofbauer *Bifurcations in planar, quadratic mass-action networks with few reactions and low molecularity* **Nonlinear Dyn.** (2024), (<https://doi.org/10.1007/s11071-024-10068-1>)
+* M. Banaji, B. Boros and J. Hofbauer *Bifurcations in planar, quadratic mass-action networks with few reactions and low molecularity*, **Nonlinear Dyn.** (2024), (<https://doi.org/10.1007/s11071-024-10068-1>)
 
 * [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks* (2023), (<http://arxiv.org/abs/2312.12897>)
 
-* M. Banaji, B. Boros and J. Hofbauer *Oscillations in three-reaction quadratic mass-action systems* **Stud Appl Math** (2023), (<https://doi.org/10.1111/sapm.12639>)
+* M. Banaji, B. Boros and J. Hofbauer *Oscillations in three-reaction quadratic mass-action systems*, **Stud Appl Math** (2023), (<https://doi.org/10.1111/sapm.12639>)
 
 * M. Banaji, B. Boros and J. Hofbauer *The smallest bimolecular mass-action system with a vertical Andronov--Hopf bifurcation*, **Appl Math Lett** (2023), (<https://doi.org/10.1016/j.aml.2023.108671>)
 
