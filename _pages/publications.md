@@ -7,11 +7,13 @@ author_profile: true
 
 You can view some of my academic publications on <a href="https://arxiv.org/a/banaji_m_1.html">arXiv</a>, on <a href="https://www.researchgate.net/profile/Murad-Banaji">ResearchGate</a>, or on <a href="https://orcid.org/0000-0002-4983-0377">ORCID</a>.
 
-Pandemic-related writing (popular and technical) is available <a href="https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/">here</a>.
+Pandemic-related writing (popular and technical) is available <a href="https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/">here</a> (no longer updated).
 
 **Mathematical papers and preprints**
 
-* [preprint] M. Banaji, B. Boros and J. Hofbauer *Bifurcations in planar, quadratic mass-action networks with few reactions and low molecularity* (2024), (<https://arxiv.org/abs/2406.13451>)
+* [preprint] M. Banaji *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
+
+* M. Banaji, B. Boros and J. Hofbauer *Bifurcations in planar, quadratic mass-action networks with few reactions and low molecularity* **Nonlinear Dyn.** (2024), (<https://doi.org/10.1007/s11071-024-10068-1>)
 
 * [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks* (2023), (<http://arxiv.org/abs/2312.12897>)
 
