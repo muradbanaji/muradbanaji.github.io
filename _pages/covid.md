@@ -31,7 +31,7 @@ author_profile: true
 
 ## Selected popular writing and technical writing on COVID-19 in India
 
-* [Large and unequal life expectancy declines associated with the COVID-19 pandemic in India in 2020](https://osf.io/preprints/socarxiv/8juds) (with A. Gupta, P. Hathi, P. Gupta, R. Kashyap, V. Paikra, K. Sharma, A. Somanchi, N. Sudharsanan, and S. Vyas).
+* [Large and unequal life expectancy declines associated with the COVID-19 pandemic in India in 2020](https://doi.org/10.1126/sciadv.adk2070) (with A. Gupta, P. Hathi, P. Gupta, R. Kashyap, V. Paikra, K. Sharma, A. Somanchi, N. Sudharsanan, and S. Vyas), **Science Advances** 10(29) (2024). 
 
 * [Estimates of pandemic excess mortality in India based on civil registration data](https://doi.org/10.1371/journal.pgph.0000803) (with Aashish Gupta), **PLoS Global Public Health** (2022). We use death registration data from twelve states comprising around 60% of the national population to estimate the scale of the pandemic mortality surge in India.
 
