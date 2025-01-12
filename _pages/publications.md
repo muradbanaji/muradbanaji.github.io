@@ -9,7 +9,7 @@ You can view some of my academic publications on <a href="https://arxiv.org/a/ba
 
 Pandemic-related writing (popular and technical) is available <a href="https://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/">here</a> (no longer updated).
 
-**Mathematical papers and preprints**
+**Papers and preprints**
 
 * [preprint] M. Banaji, *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
 
