@@ -21,7 +21,9 @@ redirect_from:
 
 ## Employment
 
-* Apr 2023-present: departmental lecturer, University of Oxford.
+* June 2025-present: senior lecturer, Lancaster University.
+
+* Apr 2023-March 2025: departmental lecturer, University of Oxford.
 
 * Sept 2021-Apr 2023: visiting academic/hourly paid lecturer, Middlesex University London.
 
@@ -53,6 +55,14 @@ redirect_from:
 
 
 ## Some invited talks (academic and pandemic related)
+
+* University of Oxford, WCMB seminar (November 2024) *Algebraic approaches in the study of chemical reaction networks*
+
+* University of Oxford, OXCIS STEM seminar (October 2024) *COVID-19 in India: Epidemic, Inequality and Propaganda*
+
+* Formal Reaction kinetics seminar, Budapest (March 2024) *The inheritance of local bifurcations in mass action networks*
+
+* University of Oxford, OCIAM seminar (May 2023) *Bifurcations leading to oscillation in small chemical reaction networks*
 
 * Mathematics of Reaction Networks Seminar, Harvard University, Politecnico di Torino, Texas A&M University, and University of Vienna (November 2022) *Splitting reactions preserves nondegenerate behaviours in chemical reaction networks*
 
@@ -116,13 +126,15 @@ redirect_from:
 
 * Stuttgart, Germany (Jan. 2009) *Making predictions about interaction networks from their structure* (Institute for Systems Theory and Automatic Control seminar).
 
-## Teaching and course preparation
+## Lecturing and course preparation
 
 **Level 6-7**
 
+* *Stochastic Modelling of Biological Processes* (Oxford, twice)
+
 * *Advanced Algebra (Galois Theory)* (Middlesex, 3 times)
 
-* *Differential Equations* (Middlesex, 1 time)
+* *Differential Equations* (Middlesex, 2 times)
 
 * *Dynamical Systems* (UCL, 5 times)
 
@@ -153,11 +165,15 @@ redirect_from:
 
 * *Mathematics for engineers*, (Middlesex, 2 times)
 
-**Thesis and postdoc supervision** Pete Donnell (PhD, UCL); Casian Pantea (Postdoctoral research, Portsmouth/Imperial); Pete Donnell (Postdoctoral research, Portsmouth)
+**Undergraduate tutor** I have tutored at Christ Church, Oxford, across the first and second year applied mathematics and probability courses.
 
-**Other teaching** I have tutored school students at all levels, and prepared students for competitions, including the BMO (British Mathematical Olympiad)
+**MSc supervision** I supervised two MSc dissertations at Oxford during 2024-25.
 
-**PhD examination**. I have been external examiner for the University of Oxford, and for the University of Nottingham. I have been internal examiner for the University of Portsmouth. 
+**Thesis and postdoc supervision** Pete Donnell (PhD, UCL); Casian Pantea (Postdoctoral research, Portsmouth/Imperial); Pete Donnell (Postdoctoral research, Portsmouth).
+
+**Other teaching** I have tutored school students at all levels, and prepared students for competitions, including the BMO (British Mathematical Olympiad).
+
+**PhD examination**. I have been external examiner for the University of Oxford (twice), and for the University of Nottingham. I have been internal examiner for the University of Portsmouth. 
 
 
 {% include base_path %}

@@ -11,13 +11,13 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Papers and preprints**
 
+* [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks*, **J. Nonlinear Science** 35 (2025) (<https://doi.org/10.1007/s00332-025-10165-4>)
+
 * [preprint] M. Banaji, *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
 
 * M. Banaji, B. Boros and J. Hofbauer *Bifurcations in planar, quadratic mass-action networks with few reactions and low molecularity*, **Nonlinear Dyn.** (2024), (<https://doi.org/10.1007/s11071-024-10068-1>)
 
 * A. Gupta, P. Hathi, M. Banaji, P. Gupta, R. Kashyap, V. Paikra, K. Sharma, A. Somanchi, N. Sudharsanan, and S. Vyas, *Large and unequal life expectancy declines associated with the COVID-19 pandemic in India in 2020*, **Science Advances** 10(29) (2024) (<https://doi.org/10.1126/sciadv.adk2070>)
-
-* [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks* (2023), (<http://arxiv.org/abs/2312.12897>)
 
 * M. Banaji, B. Boros and J. Hofbauer *Oscillations in three-reaction quadratic mass-action systems*, **Stud Appl Math** (2023), (<https://doi.org/10.1111/sapm.12639>)
 
