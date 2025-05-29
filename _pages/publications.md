@@ -11,7 +11,7 @@ Pandemic-related writing (popular and technical) is available <a href="https://m
 
 **Papers and preprints**
 
-* [preprint] M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks*, **J. Nonlinear Science** 35 (2025) (<https://doi.org/10.1007/s00332-025-10165-4>)
+* M. Banaji, B. Boros and J. Hofbauer *The inheritance of local bifurcations in mass action networks*, **J. Nonlinear Science** 35 (2025) (<https://doi.org/10.1007/s00332-025-10165-4>)
 
 * [preprint] M. Banaji, *Some bounds on positive equilibria in mass action networks* (2024), (<https://arxiv.org/abs/2409.06877>)
 
