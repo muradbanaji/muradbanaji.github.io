@@ -31,6 +31,8 @@ author_profile: true
 
 ## Selected popular writing and technical writing on COVID-19 in India
 
+* [Will the Government Finally Acknowledge the Scale of India's Covid-19 Tragedy?](https://www.theindiaforum.in/health/will-government-india-finally-acknowledge-scale-indias-covid-tragedy) (with A. Gupta), **India Forum** (2025). We examine newly released official civil registration data, and re-estimate pandemic mortality using this data. 
+
 * [Large and unequal life expectancy declines associated with the COVID-19 pandemic in India in 2020](https://doi.org/10.1126/sciadv.adk2070) (with A. Gupta, P. Hathi, P. Gupta, R. Kashyap, V. Paikra, K. Sharma, A. Somanchi, N. Sudharsanan, and S. Vyas), **Science Advances** 10(29) (2024).
 
 * [Mortality and Death Registration in India](https://www.theindiaforum.in/article/mortality-and-death-registration-india) (with A. Gupta and V. Paikra), **The India Forum** (August 2022).
